@@ -16,7 +16,8 @@ https://user-images.githubusercontent.com/95650841/156992353-0f6214f0-3462-4572-
 
 ## Description
 
-
+This is a back end application for an E-Commerce Site
 
 ## Features
 
+-User can GET all, GET by ID, POST, PUT and DELETE for categories, products and tags.
